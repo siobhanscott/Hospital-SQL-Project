@@ -1,8 +1,11 @@
-Hospital SQL Project
+#Hospital SQL Project
 ---------------------
-The goal of this project is to create a functioning hospital database including tables to represent required information, inputted data, and examples of queries you can perform.
+>The goal of this project is to create a functioning hospital database including tables to represent required information, inputted data, and examples of queries you can perform.
 
-________________________________________________________________________
+### Included Documentation: 
+1. *Hospital Schema*
+2. *Hospital Data*
+3. *Hospital Queries*
 
 The Hospital Schema is the foundational file. Without this file, the other two files will not work. This file creates the hospital database, as well as creating 9 tables for the inputted data.
 ![image](https://github.com/siobhanscott/Hospital-SQL-Project/assets/171539045/c173bbee-28cc-4d05-bf13-a6223b58ced9)
